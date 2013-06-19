@@ -1,15 +1,15 @@
 {
-  "name": "connect-session-file",
-  "version": "1.0.4",
+  "name": "connect-file-store",
+  "version": "0.0.1",
   "description": "File Session Store for Connect Middleware",
-  "author": "Alexander Veenendaal <alex@opendoorgonorth.com> (http://github.com/odogono/)",
+  "author": "jKey Lu <jkeylu@gmail.com> (http://jkey.lu)",
   "contributors": [
     "Alexander Veenendaal <alex@opendoorgonorth.com> (http://github.com/odogono/)",
     "André König <> (https://github.com/akoenig)",
     "m0ppers <> (https://github.com/m0ppers)",
     "Aaron Jackson <aaron@aaronsplace.co.uk> (https://github.com/Limes102)"
   ],
-  "bugs": { "web" : "http://github.com/odogono/connect-session-file/issues" },
+  "bugs": { "web" : "http://github.com/jkeylu/connect-file-store/issues" },
   "engines": {
     "node" : ">=0.8.11"
   },
@@ -18,10 +18,13 @@
   },
   "main": "./lib/connect-session-file",
   "dependencies": {
-    "connect": ">=2.7.3"
+    "debug": "*"
   },
+  "devDependencies": {
+	"connect": "*"
+  }
   "repository": {
     "type":"git",
-    "url":"http://github.com/odogono/connect-session-file.git"
+    "url":"https://github.com/jkeylu/connect-file-store.git"
   }
 }

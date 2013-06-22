@@ -1,0 +1,10 @@
+# Vim
+*.swp
+
+# Git
+.git*
+
+#
+
+file-store-*
+node_modules/

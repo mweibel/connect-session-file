@@ -9,7 +9,6 @@ connect(
     secret:'session file',
     store: new FileStore({
       path:'.',
-      printDebug:true,
       useAsync:true,
       reapInterval: 5000,
       maxAge: 10000

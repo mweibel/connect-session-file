@@ -1,11 +1,13 @@
 # Vim
 *.swp
+*.swo
 
 # Git
 .git*
 
 #
 
+*.log
 file-store-*
 node_modules/
 example/

@@ -1,6 +1,6 @@
 {
   "name": "connect-file-store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "File Session Store for Connect Middleware",
   "author": "jKey Lu <jkeylu@gmail.com> (http://jkey.lu)",
   "contributors": [

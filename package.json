@@ -9,14 +9,14 @@
     "m0ppers <> (https://github.com/m0ppers)",
     "Aaron Jackson <aaron@aaronsplace.co.uk> (https://github.com/Limes102)"
   ],
-  "bugs": { "web": "http://github.com/jkeylu/connect-file-store/issues" },
+  "bugs": { "web": "https://github.com/jkeylu/connect-file-store/issues" },
   "engines": {
     "node": ">=0.8.11"
   },
   "directories": {
     "lib": "lib"
   },
-  "main": "./lib/connect-session-file",
+  "main": "./lib/connect-file-store",
   "dependencies": {
     "debug": "*"
   },

@@ -1,13 +1,15 @@
 {
   "name": "connect-file-store",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "File Session Store for Connect Middleware",
   "author": "jKey Lu <jkeylu@gmail.com> (http://jkey.lu)",
   "contributors": [
     "Alexander Veenendaal <alex@opendoorgonorth.com> (http://github.com/odogono/)",
     "André König <> (https://github.com/akoenig)",
     "m0ppers <> (https://github.com/m0ppers)",
-    "Aaron Jackson <aaron@aaronsplace.co.uk> (https://github.com/Limes102)"
+    "Aaron Jackson <aaron@aaronsplace.co.uk> (https://github.com/Limes102)",
+    "jKey Lu <jkeylu@gmail.com> (https://github.com/jkeylu)",
+    "Ivan Quirino <> (https://github.com/ivanquirino)"
   ],
   "bugs": { "web": "https://github.com/jkeylu/connect-file-store/issues" },
   "engines": {
